@@ -1,0 +1,13 @@
+
+Election Results
+-------------------------
+Total Votes: 369,712
+-------------------------
+
+County Votes:
+y: 0.0% (20)
+-------------------------
+Winner: y
+Winning Vote Count: 20
+Winning Percentage: 0.0%
+-------------------------
